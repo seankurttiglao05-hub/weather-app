@@ -2,6 +2,7 @@
   "expo": {
     "name": "Weather",
     "slug": "weather-app",
+    "description": "A weather app for mobile and web with live forecasts, air quality, and a daily helper that tells you if it will rain, when to hang laundry, and how hot it really feels.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
