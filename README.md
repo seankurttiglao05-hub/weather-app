@@ -6,6 +6,15 @@ Search any city or use your location to see live weather. The background and ani
 change with the sky, and a **Daily helper** answers everyday questions like
 "Will it rain?", "Is it a good time to hang laundry?" and "How hot does it really feel?"
 
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/home.jpg" alt="Home screen showing Manila weather" width="200">
+  <img src="docs/screenshots/daily-helper.jpg" alt="Daily helper with rain, laundry and heat index" width="200">
+  <img src="docs/screenshots/forecast.jpg" alt="Hourly and 7-day forecast" width="200">
+  <img src="docs/screenshots/details.jpg" alt="Details and life index" width="200">
+</p>
+
 ## Features
 
 - **Search or GPS**: find any city, or tap the location button to use where you are
@@ -42,3 +51,5 @@ npx expo start --web # or open it in the browser
 Weather data by [Open-Meteo.com](https://open-meteo.com) (CC BY 4.0).
 
 Made by Sean Yumul Tiglao.
+
+Live app: https://weather-app-seven-vert-37.vercel.app
